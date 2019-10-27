@@ -1,0 +1,29 @@
+footer{
+    margin: 0px;
+}
+
+.follow-me{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+.follow-me-container{
+    display: flex;
+    flex-direction: row;
+}
+.sm-links-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.sm-link{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.instagram, .angelist{
+    border-left: 1px solid white;
+}
+.angelist{
+    border-right: 1px solid white;
+}
